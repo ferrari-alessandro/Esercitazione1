@@ -1,10 +1,11 @@
 # Esercitazione1
 
-Deployment patterns - Esercitazione
+Decomposizione di una applicazione - Esercitazione
 
 
-* Deploy di un progetto web su Tomcat tramite Eclipse
-* Deploy manuale di un war su Tomcat esportato da Eclipse
+* Creazione di un microservizio tramite Spring Initializr
+* Creazione e test del microservizio
+
 
 
 
