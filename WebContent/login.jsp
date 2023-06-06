@@ -29,7 +29,7 @@ span {
 <body>
 <h1> Pagina per l'utente loggato</h1>
 
-		
+<p>Autenticazione effettuata con successo!</p>
 		
 </body>
 </html>
